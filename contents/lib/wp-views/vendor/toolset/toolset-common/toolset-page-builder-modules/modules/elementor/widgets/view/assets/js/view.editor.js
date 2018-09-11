@@ -1,25 +1,40 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-<style>
-    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
-    .error {color: #e00;}
-    pre {font-size: 16px;}
-    h1 {font-size: 28px;}
-</style>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access /contents/lib/wp-views/vendor/toolset/toolset-common/toolset-page-builder-modules/modules/elementor/widgets/view/assets/js/view.editor.js
-on this server.<br />
-<br />
-Possible causes of this error include:</p>
-<ol>
-<li>The request was forbidden by rules in the .htaccess file.</li>
-<li>The directory you requested does not have an index.html or index.php file.</li>
-<li>The permissions on the file or directory are incorrect.</li>
-</ol>
-<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
-<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
-<p><br /><br /><b>
-</b></p>
-</body></html>
+/**
+ * Backend script for the Toolset View Elementor widget.
+ *
+ * @since 3.0.5
+ */
+
+var ToolsetCommon = ToolsetCommon || {};
+ToolsetCommon.PageBuilderWidget	= ToolsetCommon.PageBuilderWidget || {};
+ToolsetCommon.PageBuilderWidget.Elementor = ToolsetCommon.PageBuilderWidget.Elementor || {};
+
+ToolsetCommon.PageBuilderWidget.Elementor.ViewWidget = function( $ ) {
+
+	var self = this;
+
+	self.onEditViewButtonClick = function( data ) {
+		var selectedViewID = data.options.elementSettingsModel.attributes.view || '0';
+		if ( '0' !== selectedViewID ) {
+			window.open( window.toolsetPageBuilderElementorWidgetViewStrings.editViewURL + selectedViewID , '_blank' );
+		} else {
+			alert( window.toolsetPageBuilderElementorWidgetViewStrings.selectViewFirstMessage );
+		}
+	};
+
+	self.attachEvents = function() {
+		if ( window.toolsetPageBuilderElementorWidgetViewStrings.isPreviewMode ) {
+			elementor.channels.editor.on( 'toolset:pageBuilderWidgets:elementor:editor:editView', self.onEditViewButtonClick );
+		}
+	};
+
+	self.init = function() {
+		self.attachEvents();
+	};
+
+	self.init();
+
+};
+
+jQuery( document ).ready( function( $ ) {
+	ToolsetCommon.PageBuilderWidget.Elementor.ViewWidget = new ToolsetCommon.PageBuilderWidget.Elementor.ViewWidget( $ );
+});

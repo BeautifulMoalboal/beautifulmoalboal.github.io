@@ -1,18 +1,75 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>401 Unauthorized</title>
-<style>
-    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
-    .error {color: #e00;}
-    pre {font-size: 16px;}
-    h1 {font-size: 28px;}
-</style>
-</head><body>
-<h1>Unauthorized</h1>
-<p>This server could not verify that you
-are authorized to access the document
-requested.  Either you supplied the wrong
-credentials (e.g., bad password), or your
-browser doesn't understand how to supply
-the credentials required.</p>
-</body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Neptune Diving Adventure]]></title>
+		<website><![CDATA[http://www.neptunediving.com/rooms/]]></website>
+		<facebook><![CDATA[https://www.facebook.com/neptunedivingadventure/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com.ph/Attraction_Review-g663539-d2103683-Reviews-Neptune_Diving_Adventure_Moalboal_Santander-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[admin@neptunediving.com]]></email>
+		<phone><![CDATA[(032)4743536]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Tongo Hill Cottages]]></title>
+		<website><![CDATA[https://www.bedandbreakfast.eu/bed-and-breakfast/moalboal/tongo-hill-cottages/4417350/]]></website>
+		<facebook><![CDATA[https://www.facebook.com/Tongohillcottages/]]></facebook>
+		<tripadvisor><![CDATA[]]></tripadvisor>
+		<email><![CDATA[]]></email>
+		<phone><![CDATA[09952822504]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Tipolo Beach Resort]]></title>
+		<website><![CDATA[http://www.tipoloresort.com/]]></website>
+		<facebook><![CDATA[https://www.facebook.com/Tipolo-Beach-Resort-150154518399041/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com/Hotel_Review-g663539-d1516418-Reviews-Tipolo_Beach_Resort-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[ booking@tipoloresort.com]]></email>
+		<phone><![CDATA[09223654516]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Pacitas Beach Resort]]></title>
+		<website><![CDATA[]]></website>
+		<facebook><![CDATA[https://www.facebook.com/pg/Pacitas-Beach-Resort-543623302480567/photos/?tab=album&album_id=543625799146984]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com.au/Hotel_Review-g663539-d12534366-Reviews-Pacitas_Beach_Resort-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[]]></email>
+		<phone><![CDATA[09108587222]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[D-Gecko Hotel]]></title>
+		<website><![CDATA[https://www.d-geckohotel.com]]></website>
+		<facebook><![CDATA[https://www.facebook.com/panagsamabeach/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com/ShowUserReviews-g663539-d13074602-r566012430-D_Gecko_Hotel-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[Booking@d-geckohotel.com]]></email>
+		<phone><![CDATA[09285033413]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Moalboal Tropics]]></title>
+		<website><![CDATA[]]></website>
+		<facebook><![CDATA[https://www.facebook.com/moalboaltropics/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com/Hotel_Review-g663539-d9994619-Reviews-Moalboal_Tropics-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[moalboaltropics@yahoo.com]]></email>
+		<phone><![CDATA[09173214702]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Moalboal Beach Resort]]></title>
+		<website><![CDATA[www.moalboal-beach-resort.com/]]></website>
+		<facebook><![CDATA[https://www.facebook.com/moalboalbeachresort/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com/Hotel_Review-g663539-d3566511-Reviews-Moalboal_Beach_Resort-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[contact@moalboal-beach-resort.com]]></email>
+		<phone><![CDATA[ 09432561327]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Asian Belgian Resort]]></title>
+		<website><![CDATA[http://www.asian-belgian-resort.com]]></website>
+		<facebook><![CDATA[https://www.facebook.com/Asian-Belgian-Dive-Resort-Moalboal-Cebu-126577717389474/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com.au/Hotel_Review-g663539-d1553289-Reviews-Asian_Belgian_Dive_Resort-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[asianbelgianresort@gmail.com]]></email>
+		<phone><![CDATA[(032) 358 5428]]></phone>
+	</node>
+	<node>
+		<title><![CDATA[Pescadores Seaview Suites]]></title>
+		<website><![CDATA[https://www.pescadorescebu.com]]></website>
+		<facebook><![CDATA[https://www.facebook.com/pescadorescebu/]]></facebook>
+		<tripadvisor><![CDATA[https://www.tripadvisor.com/Hotel_Review-g663539-d12007441-Reviews-Pescadores_Seaview_Suites_Inc-Moalboal_Cebu_Island_Visayas.html]]></tripadvisor>
+		<email><![CDATA[pescadoreshotel@gmail.com]]></email>
+		<phone><![CDATA[09338631396]]></phone>
+	</node>
+</data>
