@@ -1,58 +1,25 @@
-/**
- * File sortable.js
- *
- * Handles sortable list
- *
- * @package Astra
- */
-
-	wp.customize.controlConstructor['ast-sortable'] = wp.customize.Control.extend({
-
-		ready: function() {
-
-			'use strict';
-
-			var control = this;
-
-			// Set the sortable container.
-			control.sortableContainer = control.container.find( 'ul.sortable' ).first();
-
-			// Init sortable.
-			control.sortableContainer.sortable({
-
-				// Update value when we stop sorting.
-				stop: function() {
-					control.updateValue();
-				}
-			}).disableSelection().find( 'li' ).each( function() {
-
-					// Enable/disable options when we click on the eye of Thundera.
-					jQuery( this ).find( 'i.visibility' ).click( function() {
-						jQuery( this ).toggleClass( 'dashicons-visibility-faint' ).parents( 'li:eq(0)' ).toggleClass( 'invisible' );
-					});
-			}).click( function() {
-
-				// Update value on click.
-				control.updateValue();
-			});
-		},
-
-		/**
-		 * Updates the sorting list
-		 */
-		updateValue: function() {
-
-			'use strict';
-
-			var control = this,
-		    newValue = [];
-
-			this.sortableContainer.find( 'li' ).each( function() {
-				if ( ! jQuery( this ).is( '.invisible' ) ) {
-					newValue.push( jQuery( this ).data( 'value' ) );
-				}
-			});
-
-			control.setting.set( newValue );
-		}
-	});
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+<style>
+    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
+    .error {color: #e00;}
+    pre {font-size: 16px;}
+    h1 {font-size: 28px;}
+</style>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /contents/ui/theme/inc/customizer/custom-controls/sortable/sortable.js
+on this server.<br />
+<br />
+Possible causes of this error include:</p>
+<ol>
+<li>The request was forbidden by rules in the .htaccess file.</li>
+<li>The directory you requested does not have an index.html or index.php file.</li>
+<li>The permissions on the file or directory are incorrect.</li>
+</ol>
+<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
+<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
+<p><br /><br /><b>
+</b></p>
+</body></html>

@@ -1,33 +1,25 @@
-.customize-control-ast-heading {
-margin: 20px 0;
-}
-.customize-control-ast-heading .ast-heading-wrapper {
-margin: 0 -12px;
-padding-left: 4px;
-}
-.customize-control-ast-heading .customize-control-title {
-display: block;
-padding: 14px 12px;
-margin: 0;
-border-width: 1px 0;
-border-style: solid;
-border-color: #dddddd;
-background-color: #fff;
-font-size: 12px;
-font-weight: 600;
-letter-spacing: 0.7px;
-line-height: 1;
-text-transform: uppercase;
-}
-.customize-control-ast-heading .customize-control-caption {
-top: 50%;
-transform: translateY(-50%);
-position: absolute;
-right: 0;
-font-size: 11px;
-font-weight: 500;
-letter-spacing: 1px;
-}
-.customize-control-ast-heading .customize-control-description {
-margin-top: 10px;
-}
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+<style>
+    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
+    .error {color: #e00;}
+    pre {font-size: 16px;}
+    h1 {font-size: 28px;}
+</style>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /contents/ui/theme/inc/customizer/custom-controls/heading/heading.css
+on this server.<br />
+<br />
+Possible causes of this error include:</p>
+<ol>
+<li>The request was forbidden by rules in the .htaccess file.</li>
+<li>The directory you requested does not have an index.html or index.php file.</li>
+<li>The permissions on the file or directory are incorrect.</li>
+</ol>
+<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
+<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
+<p><br /><br /><b>
+</b></p>
+</body></html>

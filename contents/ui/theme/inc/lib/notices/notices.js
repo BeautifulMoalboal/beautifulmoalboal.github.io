@@ -1,94 +1,25 @@
-/**
- * Customizer controls toggles
- *
- * @package Astra
- */
-
-( function( $ ) {
-
-	/**
-	 * Helper class for the main Customizer interface.
-	 *
-	 * @since 1.0.0
-	 * @class ASTCustomizer
-	 */
-	AstraNotices = {
-
-		/**
-		 * Initializes our custom logic for the Customizer.
-		 *
-		 * @since 1.0.0
-		 * @method init
-		 */
-		init: function()
-		{
-			this._bind();
-		},
-
-		/**
-		 * Binds events for the Astra Portfolio.
-		 *
-		 * @since 1.0.0
-		 * @access private
-		 * @method _bind
-		 */
-		_bind: function()
-		{
-			$( document ).on('click', '.astra-notice-close', AstraNotices._dismissNoticeNew );
-			$( document ).on('click', '.astra-notice .notice-dismiss', AstraNotices._dismissNotice );
-		},
-
-		_dismissNotice: function( event ) {
-			event.preventDefault();
-
-			var repeat_notice_after = $( this ).parents('.astra-notice').data( 'repeat-notice-after' ) || '';
-			var notice_id = $( this ).parents('.astra-notice').attr( 'id' ) || '';
-
-			AstraNotices._ajax( notice_id, repeat_notice_after );
-		},
-
-		_dismissNoticeNew: function( event ) {
-			event.preventDefault();
-
-			var repeat_notice_after = $( this ).attr( 'data-repeat-notice-after' ) || '';
-			var notice_id = $( this ).parents('.astra-notice').attr( 'id' ) || '';
-
-			var $el = $( this ).parents('.astra-notice');
-			$el.fadeTo( 100, 0, function() {
-				$el.slideUp( 100, function() {
-					$el.remove();
-				});
-			});
-
-			AstraNotices._ajax( notice_id, repeat_notice_after );
-
-			var link   = $( this ).attr( 'href' ) || '';
-			var target = $( this ).attr( 'target' ) || '';
-			if( '' !== link && '_blank' === target ) {
-				window.open(link , '_blank');
-			}
-		},
-
-		_ajax: function( notice_id, repeat_notice_after ) {
-			
-			if( '' === notice_id ) {
-				return;
-			}
-
-			$.ajax({
-				url: ajaxurl,
-				type: 'POST',
-				data: {
-					action            : 'astra-notice-dismiss',
-					notice_id         : notice_id,
-					repeat_notice_after : parseInt( repeat_notice_after ),
-				},
-			});
-
-		}
-	};
-
-	$( function() {
-		AstraNotices.init();
-	} );
-} )( jQuery );
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+<style>
+    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
+    .error {color: #e00;}
+    pre {font-size: 16px;}
+    h1 {font-size: 28px;}
+</style>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /contents/ui/theme/inc/lib/notices/notices.js
+on this server.<br />
+<br />
+Possible causes of this error include:</p>
+<ol>
+<li>The request was forbidden by rules in the .htaccess file.</li>
+<li>The directory you requested does not have an index.html or index.php file.</li>
+<li>The permissions on the file or directory are incorrect.</li>
+</ol>
+<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
+<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
+<p><br /><br /><b>
+</b></p>
+</body></html>

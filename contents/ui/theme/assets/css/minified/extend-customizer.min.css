@@ -1,1 +1,25 @@
-#customize-theme-controls .customize-pane-child.current-section-parent,.in-sub-panel #customize-theme-controls .customize-pane-child.current-panel-parent{-webkit-transform:translateX(-100%);-ms-transform:translateX(-100%);transform:translateX(-100%)}#customize-controls .control-section.control-section-ast_section .accordion-section-title{color:#555d66;background-color:#fff;border-bottom:1px solid #ddd;border-left:4px solid #fff;-webkit-transition:.15s color ease-in-out,.15s background-color ease-in-out,.15s border-color ease-in-out;transition:.15s color ease-in-out,.15s background-color ease-in-out,.15s border-color ease-in-out}#customize-controls .control-section.control-section-ast_section .accordion-section-title:after{color:#a0a5aa}#customize-controls .control-section.control-section-ast_section .accordion-section-title:focus,#customize-controls .control-section.control-section-ast_section .accordion-section-title:hover{color:#0073aa;background:#f3f3f5;border-left-color:#0073aa}#customize-controls .control-section.control-section-ast_section .accordion-section-title:hover:after{color:#0073aa}#customize-controls .control-section-ast_section .accordion-section{margin-left:-12px;margin-right:-12px}.customize-section-description .astra-section-description ul{margin:0}.customize-section-description .astra-section-description ul>li{list-style-type:none}.customize-section-description .astra-section-description ul>li:last-child{margin-bottom:0}.astra-section-description a{text-decoration:none;font-style:italic;border-bottom:1px dotted transparent;-webkit-transition:all ease-in-out .3s;transition:all ease-in-out .3s}.astra-section-description a:hover{border-bottom-color:inherit}#customize-controls .control-section-ast_section .customize-info .customize-section-description{margin-bottom:0}
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+<style>
+    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
+    .error {color: #e00;}
+    pre {font-size: 16px;}
+    h1 {font-size: 28px;}
+</style>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /contents/ui/theme/assets/css/minified/extend-customizer.min.css
+on this server.<br />
+<br />
+Possible causes of this error include:</p>
+<ol>
+<li>The request was forbidden by rules in the .htaccess file.</li>
+<li>The directory you requested does not have an index.html or index.php file.</li>
+<li>The permissions on the file or directory are incorrect.</li>
+</ol>
+<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
+<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
+<p><br /><br /><b>
+</b></p>
+</body></html>

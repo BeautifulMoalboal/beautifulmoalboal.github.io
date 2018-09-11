@@ -1,1 +1,25 @@
-.elementor-295 .elementor-element.elementor-element-2b09d503{background-color:#6b0067;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-295 .elementor-element.elementor-element-2b09d503 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-295 .elementor-element.elementor-element-3475bf6b > .elementor-element-populated{padding:80px 150px 80px 150px;}.elementor-295 .elementor-element.elementor-element-97d9190{text-align:center;}.elementor-295 .elementor-element.elementor-element-97d9190.elementor-widget-heading .elementor-heading-title{color:#ffffff;}.elementor-295 .elementor-element.elementor-element-b62d64e{color:#ffffff;}.elementor-295 .elementor-element.elementor-element-ea791ed a.elementor-button, .elementor-295 .elementor-element.elementor-element-ea791ed .elementor-button{font-size:14px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:#ffffff;background-color:rgba(0,0,0,0);border-radius:1px 1px 1px 1px;padding:15px 030px 15px 30px;}.elementor-295 .elementor-element.elementor-element-ea791ed a.elementor-button:hover, .elementor-295 .elementor-element.elementor-element-ea791ed .elementor-button:hover{color:#000000;border-color:#000000;}.elementor-295 .elementor-element.elementor-element-ea791ed .elementor-button{border-style:solid;border-width:2px 2px 2px 2px;border-color:#ffffff;}.elementor-295 .elementor-element.elementor-element-ea791ed > .elementor-widget-container{padding:15px 15px 15px 15px;}.elementor-295 .elementor-element.elementor-element-78fec3df .elementor-tab-title, .elementor-295 .elementor-element.elementor-element-78fec3df .elementor-tab-title:before, .elementor-295 .elementor-element.elementor-element-78fec3df .elementor-tab-title:after, .elementor-295 .elementor-element.elementor-element-78fec3df .elementor-tab-content, .elementor-295 .elementor-element.elementor-element-78fec3df .elementor-tabs-content-wrapper{border-width:1px;}
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+<style>
+    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
+    .error {color: #e00;}
+    pre {font-size: 16px;}
+    h1 {font-size: 28px;}
+</style>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /contents/data/elementor/css/post-295.css
+on this server.<br />
+<br />
+Possible causes of this error include:</p>
+<ol>
+<li>The request was forbidden by rules in the .htaccess file.</li>
+<li>The directory you requested does not have an index.html or index.php file.</li>
+<li>The permissions on the file or directory are incorrect.</li>
+</ol>
+<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
+<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
+<p><br /><br /><b>
+</b></p>
+</body></html>

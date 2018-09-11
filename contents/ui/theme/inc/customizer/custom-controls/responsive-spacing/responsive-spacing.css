@@ -1,94 +1,25 @@
-.customize-control-ast-responsive-spacing {
-}
-.customize-control-ast-responsive-spacing .customize-control-title {
-display: inline-block;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-outer-wrapper {
-display: flex;
-position: relative;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-btns {
-display: block;
-text-align: center;
-line-height: 2;
-border: 1px solid #ddd;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-btns > li {
-margin-bottom: 0;
-display: none;
-width: 35px;
-height: 26px;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-btns > li.active {
-display: inline-block;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-btns button[type="button"] {
-padding: 0;
-cursor: pointer;
-background: none;
-border: none;
-opacity: .75;
-outline: none;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-btns button[type="button"] > i {
-width: 15px;
-height: 15px;
-font-size: 15px;
-margin-top: 1px;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-units {
-position: absolute;
-transform: translateY(-100%);
-font-size: 11px;
-text-transform: uppercase;
-top: 0;
-right: 0;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-units li.single-unit {
-display: inline-block;
-margin-left: 6px;
-width: 16px;
-text-align: center;
-user-select: none;
-opacity: 0.7;
-}
-.customize-control-ast-responsive-spacing .ast-spacing-responsive-units li.single-unit.active {
-text-decoration: underline;
-opacity: 1;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper {
-display: none;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper li {
-text-align: center;
--webkit-box-flex: 1;
--ms-flex: auto;
-flex: auto;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper li input.ast-spacing-input {
-text-align: center;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper.active {
-display: flex;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper span.ast-spacing-title {
-text-transform: uppercase;
-font-size: 10px;
-opacity: .75;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper .ast-spacing-input-item-link .ast-spacing-connected {
-display: none;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper .ast-spacing-input-item-link.disconnected .ast-spacing-disconnected {
-display: none;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper .ast-spacing-input-item-link.disconnected .ast-spacing-connected {
-display: block;
-}
-.customize-control-ast-responsive-spacing .input-wrapper .ast-spacing-wrapper .ast-spacing-input-item-link span {
-width: 35px;
-height: 26px;
-line-height: 26px;
-font-size: 14px;
-border: 1px solid #ddd;
-}
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+<style>
+    body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
+    .error {color: #e00;}
+    pre {font-size: 16px;}
+    h1 {font-size: 28px;}
+</style>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /contents/ui/theme/inc/customizer/custom-controls/responsive-spacing/responsive-spacing.css
+on this server.<br />
+<br />
+Possible causes of this error include:</p>
+<ol>
+<li>The request was forbidden by rules in the .htaccess file.</li>
+<li>The directory you requested does not have an index.html or index.php file.</li>
+<li>The permissions on the file or directory are incorrect.</li>
+</ol>
+<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
+<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
+<p><br /><br /><b>
+</b></p>
+</body></html>
