@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
-<title>403 Forbidden</title>
+<title>401 Unauthorized</title>
 <style>
     body {margin: 20px; font-family: helvetica, sans-serif; max-width: 800px;}
     .error {color: #e00;}
@@ -8,18 +8,11 @@
     h1 {font-size: 28px;}
 </style>
 </head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access /contents/gallery/magic-island-dive-resort/dynamic/magicisland_03.jpg-nggid03193-ngg0dyn-50x50-00f0w010c011r110f110r010t010.jpg
-on this server.<br />
-<br />
-Possible causes of this error include:</p>
-<ol>
-<li>The request was forbidden by rules in the .htaccess file.</li>
-<li>The directory you requested does not have an index.html or index.php file.</li>
-<li>The permissions on the file or directory are incorrect.</li>
-</ol>
-<p class=error><b>For details about why the request was forbidden, see the Apache error log at:</b></p>
-<pre class=error>/srv/users/SYSUSER/log/APPNAME/APPNAME_apache.error.log</pre>
-<p><br /><br /><b>
-</b></p>
+<h1>Unauthorized</h1>
+<p>This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.</p>
 </body></html>
