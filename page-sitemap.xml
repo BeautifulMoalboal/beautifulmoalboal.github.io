@@ -2,11 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://beautifulmoalboal.org/</loc>
-		<lastmod>2019-02-18T03:50:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtle.jpg</image:loc>
-			<image:caption><![CDATA[Sea Turtle in Panagsama Beach]]></image:caption>
-		</image:image>
+		<lastmod>2019-05-24T01:07:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_IMG_0911.jpg</image:loc>
 		</image:image>
@@ -25,83 +21,8 @@
 			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_IMG_1299.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_ACRoomfor5_Beds_400.png</image:loc>
-			<image:title><![CDATA[Emoks Guesthouse Budget Stay Moalboal]]></image:title>
-			<image:caption><![CDATA[Emoks Guesthouse Budget Stay Moalboal]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/halemanna02.png</image:loc>
-			<image:caption><![CDATA[Halae Manna Reception]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_21230962_383802655370685_8467357774886867295_n.jpg</image:loc>
-			<image:title><![CDATA[Moho Moalboal Hostel Lounge]]></image:title>
-			<image:caption><![CDATA[Moho Moalboal Hostel Lounge]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtlebaymoalboal_02.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtlebaymoalboal_08.jpg</image:loc>
-			<image:caption><![CDATA[Turtle Bay Resort Moalboal]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/elementor/thumbs/batch_Deluxe-Double-Room-2-nv4ljquv5v7hreayedrtcnot45dokbt9f2fg8q4omw.jpeg</image:loc>
-			<image:title><![CDATA[Panagsama Beach Accommodation]]></image:title>
-			<image:caption><![CDATA[Panagsama Beach Accommodation]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/elementor/thumbs/IMG_1933-nv4l23fytv1nqzxxgr40j417jodk0xqpnpf7toath4.jpg</image:loc>
-			<image:title><![CDATA[Moalboal Mercado Puto &amp; Sikwate]]></image:title>
-			<image:caption><![CDATA[Moalboal Mercado Puto &amp; Sikwate]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/moalboalfruitstand.jpg</image:loc>
-			<image:caption><![CDATA[Moalboal Fruit Stand]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/andis_burger_400.jpg</image:loc>
-			<image:caption><![CDATA[Andi's Talisay Burger]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/elementor/thumbs/lantawrestomoalboal-nv51163a3wa0uim6fty0ihsj77wuahqse20it1msoo.jpg</image:loc>
-			<image:title><![CDATA[Lantaw Restaurant Moalboal]]></image:title>
-			<image:caption><![CDATA[Lantaw Restaurant Moalboal]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/VenzKitchen_.jpg</image:loc>
-			<image:caption><![CDATA[Venz Kitchen Panagsama Beach]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/andistalisay.jpg</image:loc>
-			<image:caption><![CDATA[Andis Talisay Beach Cafe Moalboal]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/headshot_grace-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/11055696_1572875712999357_655087916_n.jpg</image:loc>
-			<image:caption><![CDATA[Friends Snorkeling with Turtle in Moalboal]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/12/kawasan_falls.jpg</image:loc>
-			<image:caption><![CDATA[Kawasan Falls]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/Moalboal_DiscoverScuba_withMatt.jpg</image:loc>
-			<image:caption><![CDATA[Moalboal Discover Scuba Diving]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/snorkelwithturtle_1080.jpg</image:loc>
-			<image:caption><![CDATA[Snorkeling with Turtle in Moalboal]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/counterflow_ban_Cebu_Canyoneering.jpg</image:loc>
-			<image:caption><![CDATA[Canyoneering in Badian]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/archery_moalboal.jpg</image:loc>
-			<image:caption><![CDATA[Archery in Moalboal]]></image:caption>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtle.jpg</image:loc>
+			<image:caption><![CDATA[Sea Turtle in Panagsama Beach]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -211,6 +132,99 @@
 		<lastmod>2019-01-26T18:40:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2019/01/snorkeling_tanon.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://beautifulmoalboal.org/home/</loc>
+		<lastmod>2019-02-20T11:32:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtle.jpg</image:loc>
+			<image:caption><![CDATA[Sea Turtle in Panagsama Beach]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_IMG_0911.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_Turtle_plastics.jpg</image:loc>
+			<image:caption><![CDATA[Plastic in the Ocean]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_IMG_1303.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_PanagsamaBeach_plasticgarbage.jpg</image:loc>
+			<image:caption><![CDATA[Sustainable Tourism Moalboal to Solve Garbage Problem]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_IMG_1299.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_ACRoomfor5_Beds_400.png</image:loc>
+			<image:title><![CDATA[Emoks Guesthouse Budget Stay Moalboal]]></image:title>
+			<image:caption><![CDATA[Emoks Guesthouse Budget Stay Moalboal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/halemanna02.png</image:loc>
+			<image:caption><![CDATA[Halae Manna Reception]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/batch_21230962_383802655370685_8467357774886867295_n.jpg</image:loc>
+			<image:title><![CDATA[Moho Moalboal Hostel Lounge]]></image:title>
+			<image:caption><![CDATA[Moho Moalboal Hostel Lounge]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtlebaymoalboal_02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/turtlebaymoalboal_08.jpg</image:loc>
+			<image:caption><![CDATA[Turtle Bay Resort Moalboal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/elementor/thumbs/batch_Deluxe-Double-Room-2-nv4ljquv5v7hreayedrtcnot45dokbt9f2fg8q4omw.jpeg</image:loc>
+			<image:title><![CDATA[Panagsama Beach Accommodation]]></image:title>
+			<image:caption><![CDATA[Panagsama Beach Accommodation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/elementor/thumbs/IMG_1933-nv4l23fytv1nqzxxgr40j417jodk0xqpnpf7toath4.jpg</image:loc>
+			<image:title><![CDATA[Moalboal Mercado Puto &amp; Sikwate]]></image:title>
+			<image:caption><![CDATA[Moalboal Mercado Puto &amp; Sikwate]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/moalboalfruitstand.jpg</image:loc>
+			<image:caption><![CDATA[Moalboal Fruit Stand]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/andis_burger_400.jpg</image:loc>
+			<image:caption><![CDATA[Andi's Talisay Burger]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/elementor/thumbs/lantawrestomoalboal-nv51163a3wa0uim6fty0ihsj77wuahqse20it1msoo.jpg</image:loc>
+			<image:title><![CDATA[Lantaw Restaurant Moalboal]]></image:title>
+			<image:caption><![CDATA[Lantaw Restaurant Moalboal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/VenzKitchen_.jpg</image:loc>
+			<image:caption><![CDATA[Venz Kitchen Panagsama Beach]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/andistalisay.jpg</image:loc>
+			<image:caption><![CDATA[Andis Talisay Beach Cafe Moalboal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/Moalboal_DiscoverScuba_withMatt.jpg</image:loc>
+			<image:caption><![CDATA[Moalboal Discover Scuba Diving]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/snorkelwithturtle_1080.jpg</image:loc>
+			<image:caption><![CDATA[Snorkeling with Turtle in Moalboal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/counterflow_ban_Cebu_Canyoneering.jpg</image:loc>
+			<image:caption><![CDATA[Canyoneering in Badian]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://beautifulmoalboal.org/wp-content/uploads/2018/08/archery_moalboal.jpg</image:loc>
+			<image:caption><![CDATA[Archery in Moalboal]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
