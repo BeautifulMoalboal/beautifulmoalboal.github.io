@@ -1,5 +1,6 @@
 .elementor-1291 .elementor-element.elementor-element-642a099e > .elementor-container {min-height: 600px;}
 .elementor-1291 .elementor-element.elementor-element-642a099e > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-1291 .elementor-element.elementor-element-642a099e:not(.elementor-motion-effects-element-type-background), .elementor-1291 .elementor-element.elementor-element-642a099e > .elementor-motion-effects-container > .elementor-motion-effects-layer {background: url("https://beautifulmoalboal.org/wp-content/uploads/2019/05/Screen-Shot-2019-05-28-at-9.36.42-AM.png") 50% 50%;background-size: cover;}
 .elementor-1291 .elementor-element.elementor-element-642a099e > .elementor-background-overlay {background-color: rgba(0,0,0,.59);opacity: .5;transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-1291 .elementor-element.elementor-element-642a099e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-1291 .elementor-element.elementor-element-4dcdfc6c {text-align: center;}
@@ -111,8 +112,6 @@
 .elementor-1291 .elementor-element.elementor-element-4a38b8c {text-align: left;}
 .elementor-1291 .elementor-element.elementor-element-4a38b8c.elementor-widget-heading .elementor-heading-title {color: #000;}
 .elementor-1291 .elementor-element.elementor-element-4a38b8c .elementor-heading-title {font-family: "Glegoo",Serif;font-size: 45px;font-weight: normal;line-height: 1.4em;}
-.elementor-1291 .elementor-element.elementor-element-77ec8d2 .elementor-text-editor {text-align: left;}
-.elementor-1291 .elementor-element.elementor-element-77ec8d2 {color: #1c1c1c;font-family: "Maven Pro",Serif;font-size: 18px;font-weight: normal;line-height: 2em;}
 @media (max-width:1024px) {.elementor-1291 .elementor-element.elementor-element-be10d24 {padding: 100px 25px 100px 25px;}
 	.elementor-1291 .elementor-element.elementor-element-7686ee3 {padding: 100px 25px 100px 25px;}
 	.elementor-1291 .elementor-element.elementor-element-4c6c3708 > .elementor-container {min-height: 400px;}
