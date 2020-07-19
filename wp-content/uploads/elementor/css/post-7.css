@@ -1,7 +1,7 @@
 body.elementor-kit-7 {color: #000;font-family: "Montserrat",Sans-serif;font-size: 18px;line-height: 2em;}
 body.elementor-kit-7 a {color: #062750;}
 body.elementor-kit-7 h1 {color: #000;font-family: "Playfair Display",Sans-serif;font-size: 45px;font-weight: normal;line-height: 1.4em;}
-body.elementor-kit-7 h2 {color: #000;}
+body.elementor-kit-7 h2 {color: #062750;font-family: "Playfair Display",Sans-serif;font-size: 30px;}
 body.elementor-kit-7 h3 {color: #062750;}
 body.elementor-kit-7 h4 {color: #062750;font-family: "Playfair Display",Sans-serif;font-size: 45px;line-height: 1.4em;}
 body.elementor-kit-7 h5 {color: #062750;}
@@ -9,4 +9,5 @@ body.elementor-kit-7 h6 {color: #062750;}
 @media (max-width:1024px) {body.elementor-kit-7 h1 {font-size: 40px;}
 	body.elementor-kit-7 h4 {font-size: 40px;}}
 @media (max-width:767px) {body.elementor-kit-7 h1 {font-size: 30px;}
+	body.elementor-kit-7 h2 {line-height: 1.3em;}
 	body.elementor-kit-7 h4 {font-size: 30px;}}
