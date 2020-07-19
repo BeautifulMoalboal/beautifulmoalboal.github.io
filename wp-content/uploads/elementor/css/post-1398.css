@@ -1,13 +1,13 @@
 .elementor-1398 .elementor-element.elementor-element-6601eee9 > .elementor-container {min-height: 400px;}
 .elementor-1398 .elementor-element.elementor-element-6601eee9 > .elementor-container:after {content: "";min-height: inherit;}
-.elementor-1398 .elementor-element.elementor-element-6601eee9:not(.elementor-motion-effects-element-type-background), .elementor-1398 .elementor-element.elementor-element-6601eee9 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://beautifulmoalboal.org/wp-content/uploads/2019/05/footer_underwater.png");background-position: bottom left;background-repeat: repeat-x;background-size: auto;}
+.elementor-1398 .elementor-element.elementor-element-6601eee9:not(.elementor-motion-effects-element-type-background), .elementor-1398 .elementor-element.elementor-element-6601eee9 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("http://admin.beautifulmoalboal.org/wp-content/uploads/2019/05/footer_underwater.png");background-position: bottom left;background-repeat: repeat-x;background-size: auto;}
 .elementor-1398 .elementor-element.elementor-element-6601eee9 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-1398 .elementor-element.elementor-element-6601eee9 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-1398 .elementor-element.elementor-element-7f411b2 .elementor-spacer-inner {height: 50px;}
 .elementor-1398 .elementor-element.elementor-element-7bd68bb8:not(.elementor-motion-effects-element-type-background), .elementor-1398 .elementor-element.elementor-element-7bd68bb8 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #062750;}
 .elementor-1398 .elementor-element.elementor-element-7bd68bb8 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-1398 .elementor-element.elementor-element-7bd68bb8 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-1398 .elementor-element.elementor-element-262de13a {color: #fff;font-family: "Maven Pro",Serif;font-size: 16px;}
+.elementor-1398 .elementor-element.elementor-element-262de13a {color: #fff;font-family: "Maven Pro",Sans-serif;font-size: 16px;}
 .elementor-1398 .elementor-element.elementor-element-262de13a > .elementor-widget-container {padding: 0px 0px 0px 0px;}
 .elementor-1398 .elementor-element.elementor-element-29f85ee7 > .elementor-widget-container {margin: 8% 8% 8% 8%;}
 .elementor-1398 .elementor-element.elementor-element-29f85ee7 {width: auto;max-width: auto;}
@@ -15,8 +15,9 @@
 .elementor-1398 .elementor-element.elementor-element-5cac7db1 {width: auto;max-width: auto;}
 .elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper {text-align: center;}
 .elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper a, .elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper {color: #fff;}
-.elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper, .elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper a {font-family: "Maven Pro",Serif;font-size: 14px;}
+.elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper, .elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper a {font-family: "Maven Pro",Sans-serif;font-size: 14px;}
 .elementor-1398 .elementor-element.elementor-element-27156f4 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
-@media (max-width:1024px) {.elementor-1398 .elementor-element.elementor-element-262de13a {line-height: 1.4em;}}
 @media (min-width:768px) {.elementor-1398 .elementor-element.elementor-element-3e63799f {width: 57.811%;}
 	.elementor-1398 .elementor-element.elementor-element-3e713e79 {width: 42.189%;}}
+@media (max-width:1024px) {.elementor-1398 .elementor-element.elementor-element-262de13a {line-height: 1.4em;}}
+@media (max-width:767px) {.elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper, .elementor-1398 .elementor-element.elementor-element-27156f4 .hfe-copyright-wrapper a {font-size: 12px;}}
